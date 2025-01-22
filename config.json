@@ -1,5 +1,5 @@
 {
-  "access-token":,
+  "access-token": ACCESS_TOKEN,
   "server": "mastos.online",
   "home-timeline-length": 500,
   "max-followings": 100,
