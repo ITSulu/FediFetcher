@@ -1,6 +1,7 @@
 {
-  "server": "mastos.online",
-  "home-timeline-length": 500,
-  "max-followings": 100,
-  "from-notifications": 2
+  "access-token": ,
+  "server": mastos.online,
+  "home-timeline-length": 200,
+  "max-followings": 80,
+  "from-notifications": 1
 }
